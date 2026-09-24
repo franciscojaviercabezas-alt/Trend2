@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <style name="Theme.TendenciasEspaña" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#C62828</item>
+        <item name="android:navigationBarColor">#121214</item>
+    </style>
+    <style name="Theme.TendenciasEspana" parent="android:Theme.Material.Light.NoActionBar">
+        <item name="android:statusBarColor">#C62828</item>
+        <item name="android:navigationBarColor">#121214</item>
+    </style>
+</resources>

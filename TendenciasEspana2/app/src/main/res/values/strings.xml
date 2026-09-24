@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Tendencias España</string>
+    <string name="widget_name">Tendencias España Widget</string>
+    <string name="widget_description">Muestra los temas más comentados y tendencias en tiempo real en España.</string>
+    <string name="ready_title">Estructura preparada</string>
+    <string name="ready_description">La aplicación está lista para conectar la fuente externa de tendencias y activar el widget de inicio.</string>
+</resources>
